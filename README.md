@@ -3,6 +3,8 @@ App alternatives or better apps to replace Proprietary software.
 
 ## TODO: Manage and place all of them properly with categories.
 
+[![GitHub](https://img.shields.io/badge/Quick-VM-brightgreen?style=for-the-badge&logo=Material-Design-Icons&logoColor=white)](https://github.com/thegamerhat/appbook/)
+
 [![Linux](https://img.shields.io/badge/Linux?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 ## Requirements:
