@@ -1,5 +1,10 @@
 # Drop the ideas for apps and software to be entered here.
 
-1. Ventoy, balena etcher, rufus - usb media creation
-2. [Outline](https://getoutline.com) - alternative to notion
-3. 
+System Utilities
+
+- Ventoy, balena etcher, rufus - usb media creation
+
+Productivity/Office
+
+- [Outline](https://getoutline.com) - alternative to notion
+- Getting things Gnome 
