@@ -1,11 +1,10 @@
-# AppBookmark (Just a start)
+# 📘 AppBook (Just a start)
 App alternatives or better apps to replace Proprietary software.
-
 
 ## TODO: Manage and place all of them properly with categories.
 
-# Sound and Voice
+# 🔖 Sound and Voice
 
-Real-time Audio noise suppression
+### Real-time Audio noise suppression
 
-RTX Voice: [NoiseTorch](https://github.com/lawl/NoiseTorch)
+1. RTX Voice: [NoiseTorch](https://github.com/lawl/NoiseTorch)
