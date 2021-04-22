@@ -3,7 +3,7 @@ App alternatives or better apps to replace Proprietary software.
 
 ## TODO: Manage and place all of them properly with categories.
 
-[![Linux](https://img.shields.io/badge/Linux?style=for-the-badge&logo=Ubuntu&logoColor=white)](Desktop/Linux/)
+[![Linux](https://img.shields.io/badge/Linux?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 ## Requirements:
 
