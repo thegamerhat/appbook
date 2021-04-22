@@ -3,9 +3,7 @@ App alternatives or better apps to replace Proprietary software.
 
 ## TODO: Manage and place all of them properly with categories.
 
-[![GitHub](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://github.com/thegamerhat/appbook/)
-
-[![Linux](https://img.shields.io/badge/Linux-Apps-%23000?style=for-the-badge&logo=Ubuntu&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-Apps-%23000?style=for-the-badge&logo=Ubuntu&logoColor=white)](Desktop/Linux)
 
 ## Requirements:
 
