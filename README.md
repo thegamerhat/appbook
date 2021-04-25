@@ -5,11 +5,11 @@
 
 ## TODO: Manage and place all of them properly with categories.
 
-[![Linux](https://img.shields.io/badge/Linux-Apps-%23000000?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://github.com/thegamerhat/appbook/tree/devs/Desktop/Linux)
+[![Linux](https://img.shields.io/badge/Linux-Apps-?labelColor=E95420&style=for-the-badge&logo=Ubuntu&logoColor=white&color=FFF)](https://github.com/thegamerhat/appbook/tree/devs/Desktop/Linux)
 
-[![Windows](https://img.shields.io/badge/Windows-Apps-%23ffffff?style=for-the-badge&logo=Windows&logoColor=0078d6)](https://github.com/thegamerhat/appbook/tree/devs/Desktop/Windows)
+[![Windows](https://img.shields.io/badge/Windows_Apps?labelColor=0078D6&style=for-the-badge&logo=Windows&logoColor=0078D6&color=FFF)](https://github.com/thegamerhat/appbook/tree/devs/Desktop/Windows)
 
-[![Mac OS](https://img.shields.io/badge/Mac_OS-Apps-%23000000?style=for-the-badge&logo=Apple&logoColor=white)](https://github.com/thegamerhat/appbook/tree/devs/Desktop/Mac)
+[![Mac OS](https://img.shields.io/badge/Mac_OS?labelColor=000000&style=for-the-badge&logo=Apple&logoColor=white&color=FFF)](https://github.com/thegamerhat/appbook/tree/devs/Desktop/Mac)
 
 ## Requirements:
 
