@@ -1,5 +1,6 @@
 # 📘 AppBook (Not yet complete)
-**Better Apps/Alternatives to replace Proprietary software.**
+
+#### **Better Apps/Alternatives to replace Proprietary software.**
 
 ![Map](map.png)
 
