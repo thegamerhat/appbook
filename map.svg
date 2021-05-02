@@ -14,7 +14,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="map.svg">
+   sodipodi:docname="map.svg"
+   inkscape:export-filename="/mnt/home/gamerhat/Projects/appbook/map.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs2">
     <rect
@@ -465,9 +468,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="583.72496"
-     inkscape:cy="466.72558"
+     inkscape:zoom="1.4"
+     inkscape:cx="139.69934"
+     inkscape:cy="309.72187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -504,7 +507,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -788,7 +791,7 @@
            id="g976"
            transform="matrix(0.51057656,0,0,0.51057656,207.23884,75.243467)">
           <rect
-             style="opacity:1;fill:#202020;fill-opacity:1;stroke-width:0.751554;stroke-linecap:round;stroke-linejoin:round"
+             style="opacity:1;fill:#0d1117;fill-opacity:1;stroke-width:0.751554;stroke-linecap:round;stroke-linejoin:round"
              id="rect970"
              width="75.212479"
              height="30.652"
@@ -810,7 +813,7 @@
            id="g986"
            transform="matrix(0.51057656,0,0,0.51057656,10.197623,75.243467)">
           <rect
-             style="opacity:1;fill:#202020;fill-opacity:1;stroke-width:0.751554;stroke-linecap:round;stroke-linejoin:round"
+             style="opacity:1;fill:#0d1117;fill-opacity:1;stroke-width:0.751554;stroke-linecap:round;stroke-linejoin:round"
              id="rect980"
              width="75.212479"
              height="30.652"
@@ -916,64 +919,49 @@
              id="path1040" />
           <g
              id="g1042"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1044"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1046"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1048"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1050"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1052"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1054"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1056"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1058"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1060"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1062"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1064"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1066"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1068"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g1070"
-             style="fill:#ffffff;fill-opacity:1">
-</g>
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
       </g>
     </g>
