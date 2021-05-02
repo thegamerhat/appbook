@@ -14,4 +14,4 @@ Productivity tools
 Developer and Website Analytics
 
 - [Plausible](https://github.com/plausible/analytics)
-
+Firebase Alternatives - https://supabase.io/
