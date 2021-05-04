@@ -1,4 +1,8 @@
 # 📘 AppBook (Not yet complete)
+
+| :info: More apps on the way, this project is still in works.
+| ---
+
 **Better Apps/Alternatives to replace Proprietary software.**
 
 ![Map](map.png)
