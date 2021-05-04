@@ -3,10 +3,7 @@
 | :info: More apps on the way, this project is still in works.
 | ---
 
-**Better Apps/Alternatives to replace Proprietary software.**
-=======
 #### **Better Apps/Alternatives to replace Proprietary software.**
->>>>>>> 7f0e44cfe92238208a9d0ad53255f4858eb85816
 
 ![Map](map.png)
 
