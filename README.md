@@ -1,6 +1,5 @@
 # 📘 AppBook (Not yet complete)
 
-<<<<<<< HEAD
 | :info: More apps on the way, this project is still in works.
 | ---
 
